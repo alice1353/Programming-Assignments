@@ -4,8 +4,8 @@ alicelu625@gmail.com
 ==============================
 Source files:
 	FileReverse.java
+	fileReverse.c
 Other files:
-	Makefile
 	gettysburg.txt
 	gettysburg-reversed.txt
 ==============================
