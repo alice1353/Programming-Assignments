@@ -5,7 +5,6 @@ alicelu625@gmail.com
 Source files:
 	charType.c
 Other files:
-	Makefile
 	in.text
 	in-correct.txt
 ==============================
