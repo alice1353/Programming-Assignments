@@ -1,0 +1,28 @@
+Zifei (Alice) Lu
+alicelu625@gmail.com
+12/05/2017
+==============================
+Source files:
+	Bard.java
+	WordObj.java
+Other files:
+	Makefile
+	test-input.txt
+	test-output.txt
+==============================
+Compile: make
+Run: java -jar Bard.jar <input file> <output file>
+==============================
+Purpose:
+Analyze words of all compositions of input text file
+Given input of word length and frequency rank (most frequent to least), 
+find corresponding word.
+========================================================
+Input file format:
+wordLength wordFrequencyRank
+========================================================
+Output file format:
+If there exist word with given word length and frequency rank, then output
+	word
+If there is no word with the given word length and frequency rank, then output
+	-
