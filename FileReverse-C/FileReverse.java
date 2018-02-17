@@ -2,7 +2,6 @@
  * FileReverse.java
  * Purpose:
    Reads lines of input and prints tokens backward to output file
- * Author: Some codes obtained from Lab 2 instructions file FileTokens.java
  * Zifei (Alice) Lu
    alicelu625@gmail.com
  * 10/5/2017
