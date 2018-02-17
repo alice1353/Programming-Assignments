@@ -1,0 +1,28 @@
+Zifei (Alice) Lu
+alicelu625@gmail.com
+11/26/2017
+==============================
+Source files:
+	NQueens.java
+	Queen.java
+Other files:
+	Makefile
+	test-input.txt
+	test-output.txt
+==============================
+Compile: make
+Run: java -jar NQueens.jar <input file> <output file>
+==============================
+Purpose:
+Using stacks, solve the NQueens problem.
+Place n Queens on an nxn chessboard such that
+no 2 queens can attack each other.
+========================================================
+Input file format:
+chessBoardSizeN 1stQueenLocationX 1stQueenLocationY
+========================================================
+Output file format:
+If solved, then output
+	1stQueenLocationX 1stQueenLocationY 2ndQueenLocationX 2ndQueenLocationY ...
+If not possible, then output
+	No solution
