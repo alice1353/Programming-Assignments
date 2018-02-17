@@ -21,4 +21,7 @@ Input file format:
 chessboardSize 1stQueenPositionX 1stQueenPositionY
 ==============================
 Output file format:
-1stQueenPositionX 1stQueenPositionY 2ndQueenPositionX 2ndQueenPositionY ...
+If solved, then output
+	1stQueenPositionX 1stQueenPositionY 2ndQueenPositionX 2ndQueenPositionY ...
+If not possible, then output
+	No solution
